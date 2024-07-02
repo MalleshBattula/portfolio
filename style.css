@@ -166,6 +166,8 @@ section .title::after{
 .home{
     display: flex;
     /* background: url("images/banner.jpg") no-repeat center; */
+    /* background: url("https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXI3cGJuOTg1a2d0Nm04eTlrY2UxdWE4dmFicmh0dm53M3QzMWh0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U3qYN8S0j3bpK/giphy.gif") no-repeat center; */
+
     background-image: repeating-linear-gradient(233deg, rgb(34,35,34) 0px, rgb(34,35,34) 10px,transparent 10px, transparent 11px),repeating-linear-gradient(22.5deg, rgb(34,35,34) 0px, rgb(34,35,34) 10px,transparent 10px, transparent 11px),linear-gradient(188deg, hsl(194,74%,56%),rgb(90,55,136),hsl(338,74%,56%),rgb(131,124,88),rgb(59,136,62));
     /* background-image: linear-gradient(135deg, transparent 0%, transparent 17%,rgba(157,159,162, 0.6) 17%, rgba(157,159,162, 0.6) 59%,transparent 59%, transparent 64%,rgba(27,29,37, 0.6) 64%, rgba(27,29,37, 0.6) 100%),linear-gradient(45deg, transparent 0%, transparent 2%,rgb(51,53,55) 2%, rgb(51,53,55) 46%,rgb(152,159,166) 46%, rgb(152,159,166) 54%,transparent 54%, transparent 63%,rgb(65,65,68) 63%, rgb(65,65,68) 100%),linear-gradient(90deg, rgb(55,50,50),rgb(55,50,50)); */
     
